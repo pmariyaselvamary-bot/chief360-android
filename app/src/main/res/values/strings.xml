@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Chief360 Copilot</string>
+    <string name="title_activity_main">Chief360 Copilot</string>
+    <string name="package_name">com.chief360.copilot</string>
+    <string name="custom_url_scheme">com.chief360.copilot</string>
+</resources>
