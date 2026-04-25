@@ -1,2 +1,2 @@
 # Chief360 Copilot Android App
-Updated for Railway deployment
+Updated for Vercel deployment
