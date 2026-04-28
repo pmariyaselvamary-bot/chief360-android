@@ -1,2 +1,2 @@
 # Chief360 Copilot Android App
-Updated with dark mode, search and task features
+Updated with logout, schedule modal and light mode fixes
