@@ -1,2 +1,2 @@
 # Chief360 Copilot Android App
-Updated for Vercel deployment
+Updated with dark mode, search and task features
